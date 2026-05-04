@@ -1,7 +1,5 @@
 # Gator RSS Aggregator
 
-![Gator](https://i.imgur.com/9jQZ6yD.png)
-
 Gator is a command-line RSS feed aggregator that lets you follow your favorite blogs and news sources, then
 view their latest posts in one place. It's built with Go, PostgreSQL, and SQLC.
 
